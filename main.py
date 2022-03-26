@@ -1,3 +1,5 @@
+# You should create a requeriment file
+
 import pygame
 import math
 pygame.init()
